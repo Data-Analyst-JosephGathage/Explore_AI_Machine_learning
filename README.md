@@ -5,9 +5,7 @@ Welcome to my
 
 "Explore AI repo".
 
-This repository is a compilation of my studies and experiments in artificial intelligence, 
-
-with a focus on
+This repository is a compilation of my studies and experiments in artificial intelligence, with a focus on
 
 Python programming,
 
