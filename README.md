@@ -1,6 +1,6 @@
-Explore AI Machine learning
+
 Overview
-Welcome to my "Explore AI repo.
+Welcome to my "Explore AI repo".
 
 This repository is a compilation of my studies and experiments in artificial intelligence, 
 
