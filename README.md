@@ -11,11 +11,11 @@ with a focus on
 
 Python programming,
 
-machine learning, 
+Machine learning, 
 
-natural language processing (NLP), 
+Natural language processing (NLP), 
 
-cloud computing using AWS.
+Cloud computing using AWS.
 
 
 Table of Contents
